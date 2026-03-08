@@ -1,4 +1,4 @@
-# AWS Organizations Governance Project
+# Multi-Account AWS Governance Setup using AWS Organizations and Service Control Policies
 
 ## Project Overview
 
