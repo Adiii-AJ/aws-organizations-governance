@@ -65,6 +65,14 @@ This screenshot shows all Service Control Policies attached to the Root of the A
 This screenshot shows proof that the policy enforcement is working as expected.
 
 ---
+# Policy Files
+
+The following Service Control Policies were implemented in this project:
+
+- policies/deny-large-ec2.json
+- policies/cloudtrail-protection.json
+- policies/region-restriction.json
+---
 
 # AWS Services Used
 
